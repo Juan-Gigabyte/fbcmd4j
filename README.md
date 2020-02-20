@@ -1,2 +1,6 @@
 # fbcmd4j
-School Project, Java based Facebook using cmd
+Proyecto Escolar, Un Facebook en tu cmd basado en Java
+
+# Instalacion
+# Uso
+# Creditos
