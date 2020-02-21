@@ -1,7 +1,9 @@
 # fbcmd4j
-Proyecto Escolar, Un Facebook en tu cmd basado en Java
+School project, Facebook client on CMD using java
 
-# Instalacion
-# Uso
-# Creditos
-# Liciencia
+# Installation
+# Uses
+# Credit
+Juan Francisco Garza Gonzalez Mat: 2763508
+
+# License
