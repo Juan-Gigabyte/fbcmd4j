@@ -3,6 +3,12 @@ School project, Facebook client on CMD using java
 
 # Installation
 # Uses
+Obtain your *News Feed* and saves an N amount of posts in a text file.
+
+Obtain your *Wall* and save N amount of posts in a text file.
+
+You can publish your own *post* and *link* on your wall.
+
 # Credit
 Juan Francisco Garza Gonzalez Mat: 2763508
 
