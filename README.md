@@ -7,6 +7,8 @@ Make sure you have java installed on your machine
 
 install repo using git commands
 
+>> git clone https://github.com/K1ngCrims0n/fbcmd4j.git
+
 go to bin/fbcmd4j and run command
 
 >> java -jar fbcmd4j.jar
