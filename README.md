@@ -2,6 +2,16 @@
 School project, Facebook client on CMD using java
 
 # Installation
+
+Make sure you have java installed on your machine
+
+install repo using git commands
+
+go to bin/fbcmd4j and run command
+
+>> java -jar fbcmd4j.jar
+
+
 # Uses
 Obtain your *News Feed* and saves an N amount of posts in a text file.
 
